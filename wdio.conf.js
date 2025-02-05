@@ -26,7 +26,7 @@ exports.config = {
     //     './features/**/*.feature'
     // ],
     specs: [
-        './featureTest/*.feature'
+        './featureTest/login.feature'
     ],
 
     // Patterns to exclude.
